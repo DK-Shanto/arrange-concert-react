@@ -2,7 +2,7 @@
 
 Project live site link: 
 
-About this Project:
+About this Project: https://arrange-concert-react.netlify.app/
 
 This web app will give the power to arrange a concert by choosing your favourite singers around the world.
 
