@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.image-back{
+  background: url('concert.jpg') no-repeat center center fixed; 
+  background-size: cover;
+  background-repeat: no-repeat;
+}
